@@ -39,6 +39,6 @@ python prepare_clips.py
 
 ## TODO
 
-- [] Random playback of the songs
-- [] Trigger random playback on button push
+- [ ] Random playback of the songs
+- [ ] Trigger random playback on button push
 

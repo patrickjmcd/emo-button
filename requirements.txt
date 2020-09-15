@@ -1,2 +1,4 @@
-python-ffmpeg
+ffmpeg-python
 youtube-dl
+python-vlc
+mutagen

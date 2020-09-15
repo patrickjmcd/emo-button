@@ -37,8 +37,16 @@ This will create mp3 clips of just the choruses of the songs in the `clips` fold
 python prepare_clips.py
 ```
 
+## Playing a random emo clip
+
+This will randomly pick a clip from the `clips` folder and play it.
+
+```Shell
+python play_random.py
+```
+
 ## TODO
 
-- [ ] Random playback of the songs
+- [x] Random playback of the songs
 - [ ] Trigger random playback on button push
 
